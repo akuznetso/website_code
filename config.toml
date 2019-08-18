@@ -1,0 +1,26 @@
+baseURL = "/"
+languageCode = "en-us"
+title = ""
+theme = "kraiklyn"
+
+[params]
+  sidebarColor = "withimage"
+  [params.favicons]
+        use = true
+
+  [params.social]
+    [[params.social.list]]
+            class = "fas"
+            icon = "fa-envelope"
+            url = "#"
+            title = "Email"
+    [[params.social.list]]
+            class = "ai"
+            icon = "ai-google-scholar"
+            url = "https://scholar.google.com/citations?user=p3q_mlUAAAAJ&hl=en"
+            title = "Google Scholar"
+    [[params.social.list]]
+            class = "fab"
+            icon = "fa-linkedin-in"
+            url = "https://www.linkedin.com/in/alina-kuznetsova-15251325"
+            title = "LinkedIn"
