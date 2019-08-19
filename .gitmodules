@@ -3,4 +3,4 @@
 	url = https://github.com/luizdepra/hugo-coder.git
 [submodule "themes/kraiklyn"]
 	path = themes/kraiklyn
-	url = https://github.com/jsnjack/kraiklyn.git
+	url = https://github.com/akuznetso/kraiklyn.git
