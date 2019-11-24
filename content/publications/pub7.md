@@ -8,4 +8,5 @@ anchor: "pub7"
 type: "publication"
 layout: "publication"
 arxiv: "https://arxiv.org/abs/1811.00982"
+website: "https://storage.googleapis.com/openimages/web/index.html"
 ---
