@@ -2,6 +2,7 @@ baseURL = "/"
 languageCode = "en-us"
 title = ""
 theme = "kraiklyn"
+googleAnalytics = "UA-153203117-1"
 
 [params]
   sidebarColor = "withimage"
