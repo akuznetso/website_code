@@ -13,7 +13,7 @@ googleAnalytics = "UA-153203117-1"
     [[params.social.list]]
             class = "fas"
             icon = "fa-envelope"
-            url = "#"
+            url = "mailto:alinakuznetsova@gmail.com"
             title = "Email"
     [[params.social.list]]
             class = "ai"
