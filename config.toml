@@ -6,6 +6,9 @@ googleAnalytics = "UA-153203117-1"
 
 [params]
   sidebarColor = "withimage"
+  author = "Alina Kuznetsova"
+  description = "Alina Kuznetsova personal website"
+  
   [params.favicons]
         use = true
 
@@ -25,3 +28,6 @@ googleAnalytics = "UA-153203117-1"
             icon = "fa-linkedin-in"
             url = "https://www.linkedin.com/in/alina-kuznetsova-15251325"
             title = "LinkedIn"
+            
+[markup.goldmark.renderer]
+  unsafe= true            
